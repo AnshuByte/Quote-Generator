@@ -1,4 +1,3 @@
-﻿# Quote-Generator
 # Quote Generator
 
 ## Overview
@@ -29,6 +28,5 @@ This project uses the following API to fetch quotes:
 - Click the "New Quote" button to generate a random quote.
 - Click the "Twitter" button to share the quote on Twitter.
 
-## Project Structure
 
 
